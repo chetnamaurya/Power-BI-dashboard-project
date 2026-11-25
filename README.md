@@ -4,7 +4,11 @@
 
 A five-page Power BI report that turns an exploratory data analysis (EDA) of Airbnb listings into an executive-ready dashboard. It compares the **Chicago** and **New Orleans** short-term rental markets across market size, property mix, pricing and host performance, and ends with concrete business recommendations.
 
-<img width="100%" alt="Executive Overview" src="https://github.com/user-attachments/assets/61076153-87f3-45dd-804e-868a90bd7342" />
+### 🎥 Video Explanation
+
+A walkthrough of the dashboard, page by page:
+
+[![Watch the video explanation](https://img.shields.io/badge/%E2%96%B6_Watch-Video_Explanation-FF0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1jrjj9GJBJFOejmiCDmV1v9ZHr-eAw9_q/view?usp=sharing)
 
 ---
 
@@ -90,8 +94,6 @@ Superhosts vs. non-Superhosts compared on listings, revenue, average reviews and
 
 ### 5. Executive Summary & Business Recommendations
 Key findings, five recommendations and a final conclusion on one page.
-
-PASTE-PAGE-5-IMAGE-HERE
 
 ---
 
