@@ -37,7 +37,6 @@ The original EDA answered questions about the Airbnb market in notebooks and sta
 | Storytelling | An *Executive Insight* panel on every page, plus a summary and recommendations page |
 
 ---
-
 ## 📂 Dataset
 
 Airbnb listing-level data for **Chicago** and **New Orleans** (~8,000 listings in total), loaded into Power BI as one table, `Airbnb_Listings`.
